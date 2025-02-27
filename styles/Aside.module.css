@@ -1,0 +1,14 @@
+.aside {
+    background-color: #e0e0e0;
+    width: 50%;
+    pagging: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.bigmac img {
+    width: 85%;
+    height: 95%;
+    object-fit: contain;
+    margin: 1rem;
+}

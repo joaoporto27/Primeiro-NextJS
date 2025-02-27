@@ -1,0 +1,11 @@
+.footer {
+    background: rgb(71,33,29);
+    background: linear-gradient(90deg, rgba(71,33,29,1) 1%, rgba(184,48,36,1) 41%, rgba(255,0,22,1) 90%);
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    color: white;
+}
